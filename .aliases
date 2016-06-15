@@ -14,7 +14,9 @@ alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
 alias g="git"
+alias gs="git status"
 alias h="history"
+alias hgrep="history | grep -v hgrep | grep"
 alias j="jobs"
 
 # Detect which `ls` flavor is in use
